@@ -149,3 +149,50 @@ Rite of Spring was poorly received at its premier (audience expected a ballet). 
         - Ballet highlights that the music is a **ritual**, not a **story**
         - Previous ballets were sexualized (provocative clothing), *Rite of Spring* isn't sexualized
         - Important to note that this was a interdisciplinary work (dance and music). However, because of the loud protest in the premiere, the audience only saw the dance.
+
+## Boulangers
+
+Nadia Boulanger "Heures ternes" ("Idle hours")
+
+- Setting of Maeterlinck poem. Uses a lot of **symbolism**: rejects realism
+- Has a lot of chromatic and whole-tone harmonies
+
+Nadia worked to make Stravinsky's music more famous
+
+- Advertised Stravinsky composing/writing style
+- Not only composed, but helped other composers become famous (pedagogical)
+
+Lili Boulanger "D'un matin de printemps" ("Of a spring morning")
+
+- Orchestration finished by Nadia
+- Contrasts with *Rite of Spring*. The Rite was a more raw music with minimal adornment (contrasting the Impressionist movement)
+
+**Impressionism**: emphasis on color, texture; detached observation (anti-Romantic/expressionist)
+
+Nadia Boulanger
+
+- Moved away from modernist composition to Modernist pedagogy
+- Modernist collaboration (worked with Stravinsky on his works)
+
+  - Was against Schoenberg's writing
+
+- Modernist perfomer (conductor and pianist)
+
+## Stravinsky Goes in a Different Direction
+
+Octet was 
+
+- anti-emotive
+- pro-objective
+- anti-interpretation (e.g. no rubato or dynamics)
+- pro-execution (performers are automatas operating directions)
+
+### How Stravinsky Got Here
+
+Blames how poorly the *Rite of Spring* premeire went b/c of choreography. Also influenced by WWI
+
+Began reconstructing his previous works (e.g. *Firebird*), removing programmatic idea in his works. Claimed that his works are purely musical rather than programmatic
+
+- Became anti-folklore, claiming that the *Rite* wasn't based on Russian folklore
+- Became pro-cosmopolitan, Parisian
+- Moves towards quasi-tonal (focus on neo-classicism)

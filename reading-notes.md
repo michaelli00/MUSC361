@@ -33,3 +33,23 @@ singing George poems that describe emotions of grief and agony
 
 As Mahler and Strauss were both leaving the world, Schoenberg entered a
 creative frenzy, composing several works
+
+## Count Harry Kessler response to *The Rite of Spring*
+
+*The Rite of Spring* was extremely unconventional. The aristocrats and wealthy listeners were loud and made fun of the premiere. Some other composers began telling the wealthy listeners to be quiet.
+
+## Nadia Boulanger
+
+Lili and Nadia Boulanger were both women composers that leaned on each other. However, Lili died at an early age due to a lung infection and was thus unable to complete her opera. After her younger sister's death, Nadia moved towards pedagogy, becoming a composition teacher
+
+## Stravinsky Octet
+
+Wrote the ensemble for winds because they were rigid (cold and less vague). Mentions that strings lend themselves to more subtle nuances and build an 'emotive' basis.
+
+However, Stravinsky's goal with the Octet was to create a musical composition based on objective elements. The octet of flute, clarinet, bassoons, trumpets, and trombones create a complete sonorous scale (creating a rich register). The difference of volume because of the instruments renders an evident musical architecture.
+
+Stravinsky purposefully only marked forte or piano, nothing inbetween.
+
+Stravinsky sought to realize a musical composition which are emotive in themselves (manifested in heterogeneous play of movements and volumes).
+
+Also mentions that musical composition where emotive basis is the nuance will eventually be deformed. Music where emotive basis resides in the form of the composition will risk little in the hands of the performers.
