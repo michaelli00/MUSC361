@@ -1,0 +1,26 @@
+.PitchMultiplication {
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.PitchMultiplication .pitch-multiplication-row {
+  display: flex;
+}
+
+.abcjs-container {
+  padding-bottom: 0px !important;
+}
+
+svg {
+  width: 1000px;
+  position: relative !important;
+}
+
+.multiSelectContainer {
+  width: 300px !important;
+  padding-right: 40px;
+}
+
+.optionListContainer {
+  width: 260px !important;
+}

@@ -176,7 +176,7 @@ Nadia Boulanger
 
   - Was against Schoenberg's writing
 
-- Modernist perfomer (conductor and pianist)
+- Modernist performer (conductor and pianist)
 
 ## Stravinsky Goes in a Different Direction
 
@@ -196,3 +196,127 @@ Began reconstructing his previous works (e.g. *Firebird*), removing programmatic
 - Became anti-folklore, claiming that the *Rite* wasn't based on Russian folklore
 - Became pro-cosmopolitan, Parisian
 - Moves towards quasi-tonal (focus on neo-classicism)
+
+# Unit 3
+
+## Florence Price
+
+Premiere of Symphony No. 1 featured both Black and White composer music
+
+- Symphony was influenced by Dvorak's works
+- Foregrounds Black musical traditions:
+
+  - Use of pentatonic scale
+  - Use of African drum (not in Dvorak)
+  - Call and response
+
+Quote: what did it mean for "the race" to "make progress in music"
+
+- Homogenizing race vs non-race music (participating in symphonic music)
+
+Black Migration resulted from opportunities in the north w/ soldiers fighting/dying in World War I
+
+## Birth of American Music
+
+White people leached off of African Minstral music, effectively progressing segregation in music
+
+**Spirituals**: African American folk songs from slavery (forbidden views, escape plans, communion)
+
+- Concert spirituals: concert setting (voice + piano, voice + orchestra) of spirituals. Ends up influencing works of Price and Still
+
+**Blues**: based on folk songs and recorded, giving birth to an industry around the blues (folk to urban)
+
+## Women and the Blues
+
+Blues are secular spirituals that focus on the true experience of Black America
+
+Split of Black men and black women blues
+
+  - men blues is usually solo (usually w/o band). Solitary wandering
+  - women contradicted women norms (house wife, domestic abuse, etc)
+
+White blues more structured
+
+  - Conductor, uses robot instead of black singer (racist)
+  - Lacks swing of blues
+  - White washes spiritual influences
+
+## William Grant Still
+
+- **Harlem Renaissance**: major Black movement. Artists hoped that music could bridge relationship with white people and elevate black culture (rise of cultural nationalism)
+
+- **American "Ultramoderns"**: goal is to make ultra modern music (though people who termed the word were ignorant of what modernism was like in Europe). Rather than reject tradition, focus was on ignoring traditions
+
+- **Depression-era "Populism"**: idea is that music can motivate people to work (music is more accessible and folk-like)
+
+## Jazz
+
+Segregation helped shape the rise of jazz: black individuals coming together to share music/ideas
+
+New Orleans was a large melting pot (diverse people) and important place of trade
+
+### Plessy v Ferguson
+
+Starts the "one-drop" rule. Any \% black implies you are under colored laws. Created communities of colored individuals
+
+### Great Migration
+
+People move north. One of the musicians was Louis Armstrong. Jazz moves from ensemble polyphonic to featuring soloist
+
+### Harlem Renaissance
+
+Swing is a cross racial music (black bands sometimes played for white audiences). Idea of building on blues/jazz to promote black music
+
+## Break Unit
+
+### Ruth Crawford Seeger
+
+Started leaning piano but became interested in composing (became ultramodernist)
+
+Went to Europe to not to study with anyone (usually most composers learn from a famous composer)
+
+Studies with Charles Seeger in the U.S. (ultramodernism)
+
+- Creates dissonant counterpoint: reversal of tonal principles
+
+Crawford moves to populist/folk music (accessible music for the common-man). This was partially because of the Great Depression
+
+## Unit 4 Shostakovich + Stalin
+
+### Shostakovich's Fifth
+
+2 perspectives of finale (NOT)
+
+- Image of the enthusiasm of the masses
+- Forced rejoicing, created under thread
+
+**Socialist Realism**: validating Stalinism
+
+- Opposed modernism and used accessible music/folk. Against **formalism***
+
+
+### Pre-Stalin Russia into Stalin Russia
+
+* Russian Revolution (1917-1927) embraces modernism and new art forms
+* Constructivism: art could support idioms of the Revolution
+
+- Some were against it, believed the music was too inaccessible. Instead Proletarian music was preferred. The former group were eventually seen as enemies of the public (begin of Stalinist Russia)
+
+### Weimar Republic Into Nazi Germany
+
+From "objective music" into lush music
+
+- Weimar embraced of modernism
+
+Nazi Germany had a revival of German Romanticism: Wagner, Beethoven, Bruckner used for political indoctrination
+
+- Modernism condemned as degenerate
+- Hitler isn't focused on creating new music, moreso focused on reviving old music
+
+### Viktor Ullman
+
+Leader of music in Theresienstadt
+
+### Post WWII
+
+Rise in serailism to "de-nazify" music.
