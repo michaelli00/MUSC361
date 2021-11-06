@@ -65,6 +65,9 @@ function PitchMultiplication() {
             renderParams={{ viewportHorizontal: true }}
           />
         </Col>
+        <Col md={4}>
+          {pm1Selection.length ? `Pitch classes used: ${pm1Selection.join(', ')}` : ''}
+        </Col>
       </Row>
       <Row className="pitch-multiplication-row">
         <Col md={4}>
@@ -89,6 +92,9 @@ function PitchMultiplication() {
             renderParams={{ viewportHorizontal: true }}
           />
         </Col>
+        <Col md={4}>
+          {pm2Selection.length ? `Pitch classes used: ${pm2Selection.join(', ')}` : ''}
+        </Col>
       </Row>
       <Row className="pitch-multiplication-row">
         <Col md={4}>
@@ -98,6 +104,9 @@ function PitchMultiplication() {
             engraverParams={{ responsive: 'resize' }}
             renderParams={{ viewportHorizontal: true }}
           />
+        </Col>
+        <Col md={4}>
+          {pmResultSelection.length ? `Resulting pitch classes: ${pmResultSelection.join(', ')}` : ''}
         </Col>
       </Row>
     </Container>
