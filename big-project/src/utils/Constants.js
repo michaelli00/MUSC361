@@ -1,6 +1,7 @@
 export const TWELVE_TONE_DROPDOWN_OPTIONS = [...Array(12).keys()].map(val => {
   return {
-    key: parseInt(val),
+    value: parseInt(val),
+    label: parseInt(val),
   };
 });
 

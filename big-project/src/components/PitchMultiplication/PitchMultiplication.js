@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
 import Container from 'react-bootstrap/container';
 import Row from 'react-bootstrap/row';
-import Col from 'react-bootstrap/col';
-import Multiselect from 'multiselect-react-dropdown';
+import Select from 'react-select'
 import Abcjs from 'react-abcjs';
 import { 
   TWELVE_TONE_DROPDOWN_OPTIONS,
@@ -16,13 +15,13 @@ function PitchMultiplication() {
   const [pm2Selection, setPM2Selection] = useState([]);
 
   const handlePM1Changes = (vals) => {
-    const newPM1 = vals.map(val=>val.key);
+    const newPM1 = vals.map(val=>val.value);
     newPM1.sort((a,b) => a - b);
     setPM1Selection(newPM1);
   };
 
   const handlePM2Changes = (vals) => {
-    const newPM2 = vals.map(val=>val.key);
+    const newPM2 = vals.map(val=>val.value);
     newPM2.sort((a,b) => a - b);
     setPM2Selection(newPM2);
     
@@ -43,71 +42,65 @@ function PitchMultiplication() {
         <h1>Pitch Multiplication</h1>
       </Row>
       <Row className="pitch-multiplication-row">
-        <Col md={4}>
-          <Multiselect
-            disablePreSelectedValues
-            showCheckbox={true}
-            displayValue="key"
-            closeOnSelect={false}
-            placeholder="Select pitch classes"
-            avoidHighlightFirstOption={true}
-            hidePlaceholder={true}
-            options={TWELVE_TONE_DROPDOWN_OPTIONS}
-            onSelect={handlePM1Changes} 
-            onRemove={handlePM1Changes} 
+        <div className="pm-operand-title">
+          <h3>Select Pitch Classes for the First Operand</h3>
+          <Select
+          isMulti
+          closeMenuOnSelect={false}
+          escapeClearsValue={false}
+          isSearchable={false}
+          menuPlacement="bottom"
+          options={TWELVE_TONE_DROPDOWN_OPTIONS}
+          className="basic-multi-select"
+          classNamePrefix="select"
+          onChange={handlePM1Changes}
           />
-        </Col>
-        <Col md={4}>
-          <Abcjs
-            abcNotation={`X:1\nK:C\nL:4\n${pm1NotesString}`}
-            parserParams={{}}
-            engraverParams={{ responsive: 'resize' }}
-            renderParams={{ viewportHorizontal: true }}
-          />
-        </Col>
-        <Col md={4}>
+        </div>
+        <Abcjs
+          abcNotation={`X:1\nK:C\nL:4\n${pm1NotesString}`}
+          parserParams={{}}
+          engraverParams={{}}
+          renderParams={{ viewportHorizontal: true }}
+        />
+        <div className="row-info">
           {pm1Selection.length ? `Pitch classes used: ${pm1Selection.join(', ')}` : ''}
-        </Col>
+        </div>
       </Row>
       <Row className="pitch-multiplication-row">
-        <Col md={4}>
-          <Multiselect
-            disablePreSelectedValues
-            displayValue="key"
-            showCheckbox={true}
-            closeOnSelect={false}
-            placeholder="Select pitch classes"
-            avoidHighlightFirstOption={true}
-            hidePlaceholder={true}
+        <div className="pm-operand-title">
+          <h3>Select Pitch Classes for the Second Operand</h3>
+          <Select
+            isMulti
+            closeMenuOnSelect={false}
+            escapeClearsValue={false}
+            isSearchable={false}
             options={TWELVE_TONE_DROPDOWN_OPTIONS}
-            onSelect={handlePM2Changes} 
-            onRemove={handlePM2Changes} 
+            className="basic-multi-select"
+            classNamePrefix="select"
+            onChange={handlePM2Changes}
           />
-        </Col>
-        <Col md={4}>
-          <Abcjs
-            abcNotation={`X:1\nK:C\nL:4\n${pm2NotesString}`}
-            parserParams={{}}
-            engraverParams={{ responsive: 'resize' }}
-            renderParams={{ viewportHorizontal: true }}
-          />
-        </Col>
-        <Col md={4}>
+        </div>
+        <Abcjs
+          abcNotation={`X:1\nK:C\nL:4\n${pm2NotesString}`}
+          parserParams={{}}
+          engraverParams={{}}
+          renderParams={{ viewportHorizontal: true }}
+        />
+        <div className="row-info">
           {pm2Selection.length ? `Pitch classes used: ${pm2Selection.join(', ')}` : ''}
-        </Col>
+        </div>
       </Row>
       <Row className="pitch-multiplication-row">
-        <Col md={4}>
-          <Abcjs
-            abcNotation={`X:1\nK:C\nL:4\n${pmResultString}`}
-            parserParams={{}}
-            engraverParams={{ responsive: 'resize' }}
-            renderParams={{ viewportHorizontal: true }}
-          />
-        </Col>
-        <Col md={4}>
+        <h3>Resulting Pitch Classes from Pitch Multiplication</h3>
+        <Abcjs
+          abcNotation={`X:1\nK:C\nL:4\n${pmResultString}`}
+          parserParams={{}}
+          engraverParams={{}}
+          renderParams={{ viewportHorizontal: true }}
+        />
+        <div className="row-info">
           {pmResultSelection.length ? `Resulting pitch classes: ${pmResultSelection.join(', ')}` : ''}
-        </Col>
+        </div>
       </Row>
     </Container>
   );

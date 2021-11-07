@@ -3,24 +3,18 @@
   margin-left: 20px;
   margin-right: 20px;
 }
-.PitchMultiplication .pitch-multiplication-row {
+.PitchMultiplication .pitch-multiplication-row .row-info {
+  margin-left: 10px;
+  margin-bottom: 50px;
+  margin-top: -30px;
+}
+
+.PitchMultiplication .pitch-multiplication-row .pm-operand-title {
   display: flex;
 }
 
-.abcjs-container {
-  padding-bottom: 0px !important;
-}
-
-svg {
-  width: 900px;
-  position: relative !important;
-}
-
-.multiSelectContainer {
-  width: 300px !important;
-  padding-right: 40px;
-}
-
-.optionListContainer {
-  width: 260px !important;
+.PitchMultiplication .pitch-multiplication-row .pm-operand-title .basic-multi-select {
+  margin-left: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
