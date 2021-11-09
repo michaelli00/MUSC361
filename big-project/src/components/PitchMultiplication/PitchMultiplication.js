@@ -45,15 +45,15 @@ function PitchMultiplication() {
         <div className="pm-operand-title">
           <h3>Select Pitch Classes for the First Operand</h3>
           <Select
-          isMulti
-          closeMenuOnSelect={false}
-          escapeClearsValue={false}
-          isSearchable={false}
-          menuPlacement="bottom"
-          options={TWELVE_TONE_DROPDOWN_OPTIONS}
-          className="basic-multi-select"
-          classNamePrefix="select"
-          onChange={handlePM1Changes}
+            isMulti
+            closeMenuOnSelect={false}
+            escapeClearsValue={false}
+            isSearchable={false}
+            placeholder="Select pitch classes"
+            options={TWELVE_TONE_DROPDOWN_OPTIONS}
+            className="basic-multi-select"
+            classNamePrefix="select"
+            onChange={handlePM1Changes}
           />
         </div>
         <Abcjs
@@ -74,6 +74,7 @@ function PitchMultiplication() {
             closeMenuOnSelect={false}
             escapeClearsValue={false}
             isSearchable={false}
+            placeholder="Select pitch classes"
             options={TWELVE_TONE_DROPDOWN_OPTIONS}
             className="basic-multi-select"
             classNamePrefix="select"

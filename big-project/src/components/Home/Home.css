@@ -1,0 +1,25 @@
+.Home .title {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 34px;
+}
+
+.Home .blurb {
+  font-size: 20px;
+}
+
+.Home .yozora-blockquote {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: darkslategray;
+  font-size: 20px;
+}
+
+.Home .yozora-blockquote .composer-name-quote {
+  text-align: right;
+}
