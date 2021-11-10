@@ -320,3 +320,11 @@ Leader of music in Theresienstadt
 ### Post WWII
 
 Rise in serailism to "de-nazify" music.
+
+## Unit 5 Pauline Oliveros
+
+Rise of experimental music 
+
+Cage explored what is "silent" music. Also theme of rethinking *what* music is
+
+Experimental music focuses on exploring sound for its own sake
