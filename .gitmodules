@@ -1,0 +1,3 @@
+[submodule "boulez"]
+	path = boulez
+	url = git@github.com:michaelli00/boulez.git
